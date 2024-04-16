@@ -2,14 +2,15 @@
 
 ![flipkart](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/assets/159420665/fce5a2e6-3d1b-437d-a568-4534e4227b4a)
 
-# Table of Contents
+## Table of Contents
 
-+ [Introduction]
-+ [Data Dictionary]
-+ [Objective]
-+ [Project Analysis]
-+ [Visualizations]
-+ [Insights]
+- [Introduction](#introduction)
+- [Data Dictionary](#data-dictionary)
+- [Objective](#objective)
+- [Project Analysis](#project-analysis)
+- [Visualizations](#visualizations)
+- [Insights](#insights)
+
 
 # Introduction
 

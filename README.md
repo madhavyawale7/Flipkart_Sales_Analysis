@@ -64,13 +64,23 @@ The objective of this project was to analyze customer purchasing behavior and pr
 # Visualizations
 ![image](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/assets/159420665/0be061aa-e266-4a4e-882e-bd2305053813)
 
+
+
 ![image](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/assets/159420665/467783a0-944d-4ab1-8509-5416b4ad3e82)
+
+
 
 ![image](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/assets/159420665/28a4bbc6-d8f7-4b61-898d-6c334579525c)
 
+
+
 ![image](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/assets/159420665/e56e59f4-472b-411f-9d3a-3b05f05f608b)
 
+
+
 ![image](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/assets/159420665/589d68c6-5f14-4f12-98ba-7d39df0bb786)
+
+
 
 ![image](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/assets/159420665/fc7258db-8a75-4a1e-b0c7-622bcc6812cc)
 ![image](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/assets/159420665/b5a0386f-0ca3-4c6f-87fd-b5d8764dc246)
@@ -79,19 +89,35 @@ The objective of this project was to analyze customer purchasing behavior and pr
 ![image](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/assets/159420665/238e540d-0c14-4493-a45a-e139325f8ad0)
 ![image](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/assets/159420665/cf894229-d4ee-4798-aeb8-50fa456c9806)
 
+
+
 ![image](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/assets/159420665/16a415d5-7a87-4d32-a300-32d244565502)
+
+
 
 ![image](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/assets/159420665/f0d20842-8734-42b6-8611-59e5c4a00b80)
 
+
+
 ![image](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/assets/159420665/cf10fccf-42a0-4104-bbb6-fd933050ce46)
+
+
 
 ![image](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/assets/159420665/fe1db90b-2985-45ff-9081-783bc1266668)
 
+
+
 ![image](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/assets/159420665/95cbf001-1180-4c87-9498-d2cad64f72f8)
+
+
 
 ![image](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/assets/159420665/55fba3c7-d566-42d5-9207-43c47e07fee7)
 
+
+
 ![image](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/assets/159420665/c4b33129-fa0a-4936-8afb-0cec237f3d6c)
+
+
 
 ![image](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/assets/159420665/29e4d4bf-f4b1-43ee-ab4c-f6dc0d48882c)
 ![image](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/assets/159420665/5e5a7017-6cc9-4712-86d6-4968a9b25bab)
@@ -100,11 +126,47 @@ The objective of this project was to analyze customer purchasing behavior and pr
 ![image](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/assets/159420665/7ed98981-1cfa-42e9-a223-85e0aa6a6fac)
 ![image](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/assets/159420665/56e40ccb-91c5-4623-b81b-93f3b911e1a7)
 
+
+
 ![image](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/assets/159420665/0c6d7a56-b63f-4fe6-9701-866f92a49f1d)
+
+
 
 ![image](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/assets/159420665/2ddb7ac5-b130-4434-b8bc-3564e39f3bee)
 
 # Insights
+
+1. **Plotting a bar chart for Gender and its count:** Females dominate the dataset with 7832 individuals compared to 3407 males.
+  
+2. **Plot a pie chart for total sales by gender:** Females have higher purchasing power and account for the majority of buyers.
+  
+3. **How do the counts vary across different age groups?** The 26-35 age group has the highest counts for both genders.
+
+4. **Is there a correlation between age groups and total amount spent?** The 26-35 age group contributes significantly to total spending, indicating a potential correlation.
+
+5. **What is the distribution of orders across top 10 states?** Uttar Pradesh leads with 4807 orders, followed by Maharashtra and Karnataka.
+
+6. **Top 5 Customers by sales in different states:** Highlights regional buying patterns and significant contributors to sales.
+
+7. **Distribution of total sales across top 10 states:** Uttar Pradesh, Maharashtra, and Karnataka are major contributors to total sales.
+
+8. **Distribution of marital status among customers:** Unmarried customers outnumber married ones.
+
+9. **Sales distribution by marital status:** Unmarried females are the predominant buyers.
+
+10. **Distribution of customers across different occupations:** IT sector has the highest customer concentration.
+
+11. **Distribution of sales across different occupations:** IT, healthcare, and aviation sectors are prominent.
+
+12. **Distribution of product count:** Clothing & apparel is the most purchased category.
+
+13. **Distribution of sales across product:** Food, clothing, and electronics are the top-selling categories.
+
+14. **Top 5 Product categories by sales in different states:** Insights into regional consumer preferences and market dynamics.
+
+15. **How does the gender distribution vary across different states?** Female customers dominate across states, suggesting targeted marketing opportunities.
+
+16. **Patterns in gender distribution based on product categories:** Females dominate most categories, except for hand & power tools and books, where males are exclusive consumers.
 
 
 

@@ -11,6 +11,7 @@
 - [Visualizations](#visualizations)
 - [Insights](#insights)
 - [DATA](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/blob/main/DATA/Flipkart_Sales_Analysis.csv)
+- [Jupyter Notebook](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/blob/main/Flipkart_Sales_Analysis.ipynb)
 
 
 # Introduction

@@ -8,7 +8,7 @@
 - [Data Dictionary](#data-dictionary)
 - [Objective](#objective)
 - [Project Analysis](#project-analysis)
-- [Visualizations](#visualizations)
+- [Visualizations Image](#visualizations)
 - [Insights](#insights)
 - [DATA](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/blob/main/DATA/Flipkart_Sales_Analysis.csv)
 - [Jupyter Notebook](https://github.com/madhavyawale7/Flipkart_Sales_Analysis/blob/main/Flipkart_Sales_Analysis.ipynb)
